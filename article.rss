@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Información sobre eventos de tecnología dirigido a mujeres en Sevilla</title>
+        <link>https://www.shecodesevilla.com</link>
+        <description>Información sobre eventos de tecnología dirigidos a mujeres en Sevilla</description>
+
+        <item>
+            <title>Clase gratuita de Playwright – Ping Programadoras</title>
+            <link>https://www.shecodesevilla.com/clase-gratuita-playwright</link>
+            <description>Este jueves 22 de enero, la comunidad Ping Programadoras ofrecerá una clase gratuita sobre Playwright, una oportunidad ideal para aprender a escribir narrativas y documentación de proyectos tecnológicos con enfoque profesional y creativo.</description>
+        </item>
+
+        <item>
+            <title>Segundo Encuentro de la Red Andaluza de Talento Femenino STEM</title>
+            <link>https://www.shecodesevilla.com/encuentro-red-andaluza</link>
+            <description>La red #BoostHer, dedicada a promover el talento femenino en ciencia, tecnología e innovación, celebró su segundo encuentro en Sevilla con ponencias centradas en Inteligencia Artificial y el liderazgo de mujeres en disciplinas STEM.</description>
+        </item>
+
+        <item>
+            <title>CTx – Tech Experience 2026 en Sevilla</title>
+            <link>https://www.shecodesevilla.com/ctx-tech-experience-2026</link>
+            <description>CTx – Tech Experience 2026 es un evento internacional de emprendimiento digital y tecnología que se celebrará del 19 al 21 de marzo de 2026 en el Parque Científico y Tecnológico Cartuja de Sevilla.</description>
+        </item>
+
+        <item>
+            <title>International Conference on Women and Gender Studies – Sevilla 2026</title>
+            <link>https://www.shecodesevilla.com/international-conference-women-2026</link>
+            <description>Este congreso internacional, programado para 1‑2 de agosto de 2026 en Sevilla, ofrece una plataforma interdisciplinaria para profesionales e investigadores centrados en estudios de mujeres y género, con especial atención a cómo las tecnologías y soluciones actuales están siendo aplicadas y desarrolladas globalmente.</description>
+        </item>
+
+    </channel>
+</rss>
