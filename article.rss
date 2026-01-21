@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-        <title>Información sobre eventos de tecnología dirigido a mujeres en Sevilla</title>
+        <title>SheCode Sevilla – Tecnología para mujeres</title>
         <link>https://www.shecodesevilla.com</link>
-        <description>Información sobre eventos de tecnología dirigidos a mujeres en Sevilla</description>
+        <description>SheCode Sevilla ofrece información sobre eventos, cursos y conferencias de tecnología para mujeres en Sevilla y online</description>
 
         <item>
             <title>Clase gratuita de Playwright – Ping Programadoras</title>
@@ -12,21 +12,21 @@
         </item>
 
         <item>
-            <title>Segundo Encuentro de la Red Andaluza de Talento Femenino STEM</title>
-            <link>https://www.shecodesevilla.com/encuentro-red-andaluza</link>
-            <description>La red #BoostHer, dedicada a promover el talento femenino en ciencia, tecnología e innovación, celebró su segundo encuentro en Sevilla con ponencias centradas en Inteligencia Artificial y el liderazgo de mujeres en disciplinas STEM.</description>
-        </item>
-
-        <item>
             <title>CTx – Tech Experience 2026 en Sevilla</title>
             <link>https://www.shecodesevilla.com/ctx-tech-experience-2026</link>
-            <description>CTx – Tech Experience 2026 es un evento internacional de emprendimiento digital y tecnología que se celebrará del 19 al 21 de marzo de 2026 en el Parque Científico y Tecnológico Cartuja de Sevilla.</description>
+            <description>Del 19 al 21 de marzo de 2026, descubre oportunidades y novedades en emprendimiento digital y tecnología en Sevilla.</description>
         </item>
 
         <item>
-            <title>International Conference on Women and Gender Studies – Sevilla 2026</title>
-            <link>https://www.shecodesevilla.com/international-conference-women-2026</link>
-            <description>Este congreso internacional, programado para 1‑2 de agosto de 2026 en Sevilla, ofrece una plataforma interdisciplinaria para profesionales e investigadores centrados en estudios de mujeres y género, con especial atención a cómo las tecnologías y soluciones actuales están siendo aplicadas y desarrolladas globalmente.</description>
+            <title>One Tech World 2026 – Conferencia virtual para mujeres en tecnología</title>
+            <link>https://www.shecodesevilla.com/one-tech-world-2026</link>
+            <description>Conferencia virtual gratuita el 20 de marzo de 2026, con charlas, talleres y networking dirigidos a mujeres en tecnología de todo el mundo.</description>
+        </item>
+
+        <item>
+            <title>Women in Tech MOOC – Curso online gratuito</title>
+            <link>https://www.shecodesevilla.com/women-in-tech-mooc</link>
+            <description>Curso online gratuito para mujeres interesadas en tecnología, con módulos sobre competencias digitales, transformación digital y oportunidades laborales en el sector tech.</description>
         </item>
 
     </channel>
