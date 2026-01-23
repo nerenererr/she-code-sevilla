@@ -15,7 +15,7 @@
             left: 0;
             right: 0;
             z-index: 10;
-            background: rgba(255, 255, 255, 0.95);
+            background: ##274596;
             backdrop-filter: blur(10px);
         }
 
@@ -31,24 +31,13 @@
         .logo {
             font-size: 1.5rem;
             font-weight: bold;
-            color: #6366f1;
+            color: #2e2852;
         }
 
         .nav-links {
             display: flex;
             gap: 2.5rem;
             list-style: none;
-        }
-
-        .nav-links a {
-            text-decoration: none;
-            color: #1f2937;
-            font-weight: 500;
-            transition: color 0.3s;
-        }
-
-        .nav-links a:hover {
-            color: #6366f1;
         }
 
         .nav-right {
@@ -62,17 +51,17 @@
             border: none;
             font-size: 1.2rem;
             cursor: pointer;
-            color: #6b7280;
+            color: #f2eee8;
             transition: color 0.3s;
         }
 
         .icon-btn:hover {
-            color: #1f2937;
+            color: #eba65e;
         }
 
         .login-btn {
             text-decoration: none;
-            color: #1f2937;
+            color: #f2eee8;
             font-weight: 500;
         }
 
@@ -85,35 +74,12 @@
             justify-content: center;
             text-align: center;
             padding: 8rem 2rem 4rem;
-            background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.85)),
-                        url('https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1600&q=80') center/cover;
+            background:url('https://res.cloudinary.com/dbtuho5h0/image/upload/v1769158009/premium_photo-1725227304856-55c5c9036520_pxukgb.avif') center/cover;
         }
 
         .hero-content {
             max-width: 900px;
             margin: 0 auto;
-        }
-
-        .announcement {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.5rem;
-            background: white;
-            padding: 0.75rem 1.5rem;
-            border-radius: 50px;
-            margin-bottom: 2rem;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
-            font-size: 0.95rem;
-            color: #6b7280;
-        }
-
-        .announcement a {
-            color: #6366f1;
-            text-decoration: none;
-            font-weight: 600;
-            display: flex;
-            align-items: center;
-            gap: 0.3rem;
         }
 
         .hero h1 {
@@ -126,7 +92,9 @@
 
         .hero-description {
             font-size: 1.25rem;
-            color: #6b7280;
+            color: #111827;
+            font-weight: bold;
+            text-shadow: 2px 1px 2px rgba(244, 201, 140, 0.315);
             line-height: 1.7;
             margin-bottom: 3rem;
             max-width: 700px;
@@ -156,26 +124,19 @@
         }
 
         .btn-primary {
-            background: #6366f1;
+            background: rgba(103, 111, 148, 0.6);
+            backdrop-filter: blur(10px);
             color: white;
+            
         }
 
         .btn-primary:hover {
-            background: #4f46e5;
+            background: rgba(103, 111, 148, 0.6);
+            backdrop-filter: blur(10px);
             transform: translateY(-2px);
             box-shadow: 0 10px 25px rgba(99, 102, 241, 0.3);
         }
 
-        .btn-secondary {
-            background: white;
-            color: #1f2937;
-            border: 2px solid #e5e7eb;
-        }
-
-        .btn-secondary:hover {
-            border-color: #6366f1;
-            color: #6366f1;
-        }
 
         @media (max-width: 768px) {
             nav {
@@ -202,7 +163,7 @@
         }
 
         footer {
-            background: white;
+            background: #3E376C;
             border-top: 1px solid #e5e7eb;
             padding: 3rem 2rem;
         }
@@ -222,14 +183,14 @@
         }
 
         .footer-links a {
-            color: #6b7280;
+            color: #a2adc2;
             text-decoration: none;
             font-size: 0.95rem;
             transition: color 0.3s;
         }
 
         .footer-links a:hover {
-            color: #111827;
+            color: #eba65e;
         }
 
         .social-links {
@@ -240,14 +201,14 @@
         }
 
         .social-links a {
-            color: #6b7280;
+            color: #a2adc2;
             font-size: 1.4rem;
             transition: color 0.3s;
             text-decoration: none;
         }
 
         .social-links a:hover {
-            color: #111827;
+            color: #eba65e;
         }
 
         .copyright {
