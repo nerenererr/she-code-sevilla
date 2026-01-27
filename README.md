@@ -6,8 +6,8 @@
 - **Temática elegida:** Blog de noticias sobre tecnología para mujeres en Sevilla (cursos, eventos, talleres y oportunidades)  
 - **Formato elegido:** RSS  
 - **Plataforma de hosting elegida:** GitHub Pages  
-- **Agregador de contenido elegido:** *(indicar aquí el agregador utilizado)*  
-- **URL generada:** *(pegar aquí la URL de GitHub Pages)*  
+- **Agregador de contenido elegido:** [https://feedly.com/] 
+- **URL generada:** [https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fnerenererr.github.io%2Fshe-code-sevilla%2Farticle.rss] 
 
 
 ## Descripción General
@@ -62,12 +62,14 @@ La página web ha sido estilizada mediante un archivo externo `style.css`, donde
 ## Publicación en GitHub Pages
 
 El sitio web ha sido publicado utilizando **GitHub Pages**, lo que permite que sea accesible públicamente desde cualquier navegador.
+[https://nerenererr.github.io/she-code-sevilla/]
 
 ---
 
 ## Uso de un Agregador de Contenido
 
- **Feedly** https://feedly.com/
+ **Feedly** 
+ [https://feedly.com/]
 
 ---
 
