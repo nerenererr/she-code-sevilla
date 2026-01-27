@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>SheCode Sevilla – Tecnología para mujeres</title>
+        <link>https://www.shecodesevilla.com</link>
+        <description>SheCode Sevilla ofrece información sobre eventos, cursos y conferencias de tecnología para mujeres en Sevilla y online</description>
+
+        <item>
+            <title>Clase gratuita de Playwright – Ping Programadoras</title>
+            <link>https://www.shecodesevilla.com/clase-gratuita-playwright</link>
+            <description>Este jueves 22 de enero, la comunidad Ping Programadoras ofrecerá una clase gratuita sobre Playwright, una oportunidad ideal para aprender a escribir narrativas y documentación de proyectos tecnológicos con enfoque profesional y creativo.</description>
+        </item>
+
+        <item>
+            <title>CTx – Tech Experience 2026 en Sevilla</title>
+            <link>https://www.shecodesevilla.com/ctx-tech-experience-2026</link>
+            <description>Del 19 al 21 de marzo de 2026, descubre oportunidades y novedades en emprendimiento digital y tecnología en Sevilla.</description>
+        </item>
+
+        <item>
+            <title>One Tech World 2026 – Conferencia virtual para mujeres en tecnología</title>
+            <link>https://www.shecodesevilla.com/one-tech-world-2026</link>
+            <description>Conferencia virtual gratuita el 20 de marzo de 2026, con charlas, talleres y networking dirigidos a mujeres en tecnología de todo el mundo.</description>
+        </item>
+
+        <item>
+            <title>Women in Tech MOOC – Curso online gratuito</title>
+            <link>https://www.shecodesevilla.com/women-in-tech-mooc</link>
+            <description>Curso online gratuito para mujeres interesadas en tecnología, con módulos sobre competencias digitales, transformación digital y oportunidades laborales en el sector tech.</description>
+        </item>
+
+    </channel>
+</rss>
