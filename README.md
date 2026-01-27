@@ -69,7 +69,6 @@ El sitio web ha sido publicado utilizando **GitHub Pages**, lo que permite que s
 
  **Feedly** https://feedly.com/
 
-
 ---
 
 ## Control de Versiones
