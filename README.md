@@ -1,85 +1,87 @@
-# SheCodeSevilla – Canal de Noticias RSS
+# SheCodeSevilla – RSS News Channel
 
-## Información del Proyecto
+## Project Information
 
-- **Nombre del proyecto:** SheCodeSevilla  
-- **Temática elegida:** Blog de noticias sobre tecnología para mujeres en Sevilla (cursos, eventos, talleres y oportunidades)  
-- **Formato elegido:** RSS  
-- **Plataforma de hosting elegida:** GitHub Pages  
-- **Agregador de contenido elegido:** [https://feedly.com/] 
-- **URL generada:** [https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fnerenererr.github.io%2Fshe-code-sevilla%2Farticle.rss] 
+- **Project name:** SheCodeSevilla 
+- **Chosen topic:** Technology news blog for women in Seville (courses, events, workshops, and opportunities)
+- **Chosen format:** RSS  
+- **Chosen hosting platform:** GitHub Pages  
+- **Chosen content aggregator:** [https://feedly.com/] 
+- **Generated URL:** [https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fnerenererr.github.io%2Fshe-code-sevilla%2Farticle.rss] 
 
 
-## Descripción General
+## General Description
 
-SheCodeSevilla es un blog de noticias sobre tecnología dirigido a mujeres de Sevilla. El objetivo del proyecto es difundir información relevante sobre cursos, talleres, eventos y oportunidades relacionadas con el mundo tecnológico y el desarrollo de habilidades digitales, fomentando la participación femenina en el sector tecnológico.
-
----
-
-## Canal de Noticias RSS
-
-Se ha creado un canal de noticias sindicado utilizando el formato RSS.  
-El archivo XML incluye los elementos esenciales requeridos:
-
-- `channel`  
-- `title`  
-- `link`  
-- `description`  
-
-Además, se han añadido al menos cuatro elementos de noticias (`item`), cada uno con:
-
-- Un título  
-- Un enlace  
-- Una descripción  
-
-La estructura del archivo XML ha sido validada mediante una herramienta de validación en línea para garantizar que cumple correctamente con el estándar RSS.
+SheCodeSevilla is a technology news blog aimed at women in Seville. The goal of the project is to share relevant information about courses, workshops, events, and opportunities related to the technology sector and the development of digital skills, encouraging female participation in the tech industry.
 
 ---
 
-## Página Web en HTML
+## RSS News Channel
 
-Se ha desarrollado una página web sencilla en HTML que incluye:
+A syndicated news channel has been created using the RSS format.
+The XML file includes the essential required elements:
 
-- Un encabezado (`header` o `navbar`) con el título de la web  
-- Una sección con un pequeño párrafo explicativo sobre la temática  
-- Un pie de página (`footer`)  
+- channel
+- title
+- link
+- description
 
-Dentro del HTML se ha incluido un enlace visible al canal de noticias RSS, siguiendo el ejemplo proporcionado en el repositorio de referencia.
+In addition, at least four news items (item) have been added, each including:
 
----
+- A title
+- A link
+- A description
 
-## Estilos con CSS
-
-La página web ha sido estilizada mediante un archivo externo `style.css`, donde se han definido estilos básicos para:
-
-- Tipografía  
-- Colores  
-- Estructura de la página  
-- Header, sección principal y footer  
+The structure of the XML file has been validated using an online validation tool to ensure it correctly complies with the RSS standard.
 
 ---
 
-## Publicación en GitHub Pages
+## HTML Web Page
 
-El sitio web ha sido publicado utilizando **GitHub Pages**, lo que permite que sea accesible públicamente desde cualquier navegador.
+A simple HTML web page has been developed that includes:
+
+- A header (header or navbar) with the website title
+- A section with a short explanatory paragraph about the topic
+- A footer
+
+Within the HTML, a visible link to the RSS news channel has been included, following the example provided in the reference repository.
+
+---
+
+## Styling with CSS
+
+The web page has been styled using an external style.css file, where basic styles have been defined for:
+
+- Typography
+- Colors
+- Page structure
+- Header, main section, and footer
+
+---
+
+## Publishing on GitHub Pages
+
+The website has been published using **GitHub Pages**, allowing it to be publicly accessible from any browser:
 [https://nerenererr.github.io/she-code-sevilla/]
 
 ---
 
-## Uso de un Agregador de Contenido
+## Use of a Content Aggregator
 
  **Feedly** 
  [https://feedly.com/]
 
 ---
 
-## Control de Versiones
+## Version Control
 
-El control de versiones del proyecto se ha realizado con Git, utilizando:
+Project version control has been managed using Git, including:
 
-- Commits frecuentes  
-- Mensajes de commit en inglés  
-- Un historial claro y ordenado del desarrollo del proyecto  
+- Frequent commits
+
+- Commit messages in English
+
+- A clear and well-organized project development history
 
 ---
 
